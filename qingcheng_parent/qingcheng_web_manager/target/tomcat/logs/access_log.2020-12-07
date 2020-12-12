@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [07/Dec/2020:16:18:34 +0800] "POST /spu/sava.do HTTP/1.1" 404 949 http-bio-9101-exec-2 99
+0:0:0:0:0:0:0:1 - - [07/Dec/2020:16:20:32 +0800] "POST /spu/save.do HTTP/1.1" 200 25 http-bio-9101-exec-5 129
+0:0:0:0:0:0:0:1 - - [07/Dec/2020:16:22:02 +0800] "POST /spu/save.do HTTP/1.1" 200 25 http-bio-9101-exec-8 13
+0:0:0:0:0:0:0:1 - - [07/Dec/2020:16:28:04 +0800] "POST /spu/save.do HTTP/1.1" 200 25 http-bio-9101-exec-1 14
+0:0:0:0:0:0:0:1 - - [07/Dec/2020:16:29:57 +0800] "POST /spu/save.do HTTP/1.1" 200 25 http-bio-9101-exec-4 14
+0:0:0:0:0:0:0:1 - - [07/Dec/2020:16:37:43 +0800] "POST /spu/save.do HTTP/1.1" 200 35 http-bio-9101-exec-2 1646
+0:0:0:0:0:0:0:1 - - [07/Dec/2020:16:44:11 +0800] "POST /spu/save.do HTTP/1.1" 200 35 http-bio-9101-exec-5 59
+0:0:0:0:0:0:0:1 - - [07/Dec/2020:16:46:25 +0800] "POST /spu/save.do HTTP/1.1" 200 25 http-bio-9101-exec-2 175
+0:0:0:0:0:0:0:1 - - [07/Dec/2020:16:46:30 +0800] "POST /spu/save.do HTTP/1.1" 200 25 http-bio-9101-exec-3 20
+0:0:0:0:0:0:0:1 - - [07/Dec/2020:16:58:52 +0800] "POST /spu/save.do HTTP/1.1" 200 35 http-bio-9101-exec-2 660
+127.0.0.1 - - [07/Dec/2020:20:15:51 +0800] "GET /spu//findGoodsById.do?id=1335866058799714304 HTTP/1.1" 200 3668 http-bio-9101-exec-1 687
+127.0.0.1 - - [07/Dec/2020:20:19:22 +0800] "GET /spu//findGoodsById.do?id=1335866058799714304 HTTP/1.1" 200 3672 http-bio-9101-exec-1 942
+127.0.0.1 - - [07/Dec/2020:20:22:14 +0800] "GET /spu//findGoodsById.do?id=1335866058799714304 HTTP/1.1" 200 1713 http-bio-9101-exec-1 1127
+127.0.0.1 - - [07/Dec/2020:20:24:58 +0800] "GET /spu//findGoodsById.do?id=1335866058799714304 HTTP/1.1" 200 1713 http-bio-9101-exec-3 250
